@@ -1,0 +1,36 @@
+body {
+  background-color: #DFF6FF;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  height: 2px;
+  border-color: #5C2E7E;
+  border-width: 5px;
+  width: 15%;
+}
+
+h1 {
+  color: #6F38C5;
+  font-size: 35pt;
+}
+.MainTitle {
+  font-size: 50pt;
+}
+h2 {
+  color: #66BFBF;
+  font-size: 25pt;
+}
+h3 {
+  color: #87A2FB;
+  font-size: 20pt;
+}
+h4 {
+  color: #87A2FB;
+  font-size: 15pt;
+}
+
+.choice:hover {
+  background-color: purple;
+  transition: background-color 0.5s;
+}
